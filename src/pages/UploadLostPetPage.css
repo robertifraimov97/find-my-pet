@@ -1,0 +1,30 @@
+.lost-container {
+    padding: 20px;
+  }
+  
+  .lost-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .lost-form div {
+    margin-bottom: 15px;
+  }
+  
+  .lost-form input,
+  .lost-form textarea {
+    width: 100%;
+  }
+  
+  .lost-button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
